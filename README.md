@@ -1,6 +1,6 @@
 
  Olá Meu Nome é Nelson🤘  
- tou estudando JavaScript  
+ tou estudando JavaScript,HTML,CSS
  
  <div>
   <a href="https://github.com/Nelson-Dominici">
