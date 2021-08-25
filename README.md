@@ -1,6 +1,8 @@
 
- Olá Meu Nome é Nelson🤘  
- tou estudando JavaScript,HTML,CSS
+ 🤘Olá Meu Nome é Nelson🤘  
+ 💻Tou Estudando JavaScript,HTML,CSS💻    
+ 🎮Pretendo Criar Jogos futuramente🎮  
+ 🎸E Tenho 14 anos🎸 
  
  <div>
   <a href="https://github.com/Nelson-Dominici">
@@ -17,3 +19,4 @@
   
 #
   
+![korn-90-80](https://github.com/Nelson-Dominici/Nelson-Dominici/blob/main/ezgif.com-gif-maker.gif) 
