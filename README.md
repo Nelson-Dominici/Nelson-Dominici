@@ -19,4 +19,4 @@
   
 #
   
-![korn-90-80](https://github.com/Nelson-Dominici/Nelson-Dominici/blob/main/ezgif.com-gif-maker%20(1).gif) 
+<div class="tenor-gif-embed" data-postid="15644078" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/jd-korn-jonathan-davis-j-devil-rock-gif-15644078">Jd Korn GIF</a>from <a href="https://tenor.com/search/jd-gifs">Jd GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
