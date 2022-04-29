@@ -1,7 +1,7 @@
  #
  🤘Olá Meu Nome é Nelson🤘  
  💎E tenho 15 anos💎  
- 💻Tou Estudando JavaScript, node.js, typscript💻    
+ 💻Tou Estudando c#💻    
  🎮Pretendo Criar Jogos futuramente🎮   
 
 <div>
