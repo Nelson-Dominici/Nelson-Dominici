@@ -1,7 +1,7 @@
  #
  🤘Olá Meu Nome é Nelson🤘  
  💎E tenho 15 anos💎  
- 💻Tou Estudando c#💻    
+ 💻Tou Estudando php💻    
  🎮Pretendo Criar Jogos futuramente🎮   
 
 <div>
