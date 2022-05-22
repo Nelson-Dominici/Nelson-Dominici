@@ -2,7 +2,7 @@
  🤘Olá Meu Nome é Nelson🤘  
  💎Tenho 15 anos💎  
  💻Tou Estudando js💻    
- 🎮Programo como hobby🎮   
+ 🎮Programo por hobby🎮   
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
