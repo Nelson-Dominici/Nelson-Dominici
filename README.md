@@ -3,7 +3,7 @@
  💎Tenho 15 anos💎  
  💻Tou Estudando Node JS💻    
  🎮Programo por hobby🎮   
- 🥬do capa capa capa🥬
+ 🥬dou capa capa capa🥬
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
