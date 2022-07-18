@@ -1,7 +1,7 @@
  #
  🌿 Olá Meu Nome é Nelson  
  🥀 Tou Estudando MongoDB   
- 🍁 Todo dia escutando música     
+ 🍁 Todo dia ouvindo música     
  🍒 Tenho 15 anos   
 
 <div>
