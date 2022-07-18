@@ -1,8 +1,8 @@
  #
- ⭐Olá Meu Nome é Nelson⭐  
- ⭐Tou Estudando MongoDB⭐  
- ⭐Amo escutar música⭐  
- ⭐Tenho 15 anos⭐  
+ ⭐Olá Meu Nome é Nelson  
+ ⭐Tou Estudando MongoDB  
+ ⭐Amo escutar música  
+ ⭐Tenho 15 anos  
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
