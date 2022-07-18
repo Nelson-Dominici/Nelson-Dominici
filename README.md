@@ -1,9 +1,8 @@
  #
  🌋Olá Meu Nome é Nelson🌋  
  💎Tenho 15 anos💎  
- 💻Tou Estudando Node JS💻    
+ 💻Tou Estudando MongoDB💻    
  🎮Programo por hobby🎮   
- 🥬dou capa capa capa🥬
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
