@@ -8,8 +8,7 @@
   <a href="https://github.com/Nelson-Dominici">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Dominici&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 
-<img width="450" height="250" src= "ezgif.com-gif-maker.gif" >
-
+<img hight="250" width="350" alt="GIF" align="right" src="https://github.com/Nelson-Dominici/Nelson-Dominici/blob/main/ezgif.com-gif-maker.gif">
 
 <br>
  <br>
