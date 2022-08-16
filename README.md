@@ -7,9 +7,11 @@
 <div>
   <a href="https://github.com/Nelson-Dominici">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Dominici&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  ![](nome-de-giphy.gif)
 
- <br>
+<img width="450" height="250" src= "ezgif.com-gif-maker.gif" >
+
+
+<br>
  <br>
  
 <div id="top" align="left">
