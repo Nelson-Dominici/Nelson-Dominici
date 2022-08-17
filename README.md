@@ -8,7 +8,7 @@
   <a href="https://github.com/Nelson-Dominici">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Dominici&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 
-<img width="25%" align="right" alt="Github" src="https://github.com/Nelson-Dominici/Nelson-Dominici/blob/main/ezgif.com-gif-maker.gif" />
+<img width="25%" align="right" alt="Github" src="https://github.com/Nelson-Dominici/Nelson-Dominici/commit/05922d901139384a96c7a2edfa6a1b561361c7db" />
 
 <br>
  <br>
