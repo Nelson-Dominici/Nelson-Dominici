@@ -7,8 +7,9 @@
 <div>
   <a href="https://github.com/Nelson-Dominici">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Dominici&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  
-  
+
+<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+
 <br>
  <br>
  
