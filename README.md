@@ -1,7 +1,6 @@
  #
  💊 Olá Meu Nome é Nelson  
- 🥀 Tou Estudando MongoDB   
- 💲 Capitalista Nato    
+ 🥀 Tou Estudando MongoDB     
  🍒 Tenho 15 anos   
 
 <div>
