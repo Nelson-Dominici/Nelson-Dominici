@@ -1,6 +1,6 @@
  #
  🍄 Olá Meu Nome é Nelson  
- 🥀 Tou Estudando MongoDB     
+ 🥀 Tou Estudando React     
  🍒 Tenho 15 anos   
 
 <div>
