@@ -1,7 +1,5 @@
- #
- 🍄 Olá Meu Nome é Nelson  
- 🥀 Tou Estudando React     
- 🍒 Tenho 15 anos   
+ #     
+ 🌿 I'm studying Back-end development
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
