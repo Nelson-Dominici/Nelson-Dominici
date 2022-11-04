@@ -6,13 +6,17 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Dominici&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
 </div>
 
-<br>
 <div id="top" align="left">
   
+<h3>Front-end:</h3>
+ 
 ![Html]
 ![Css]
 ![JavaScript]
-![Bootstrap]
+![Bootstrap]  
+ 
+<h3>Back-end:</h3>
+ 
 ![NodeJs]
 ![MongoDB]
 
@@ -24,5 +28,3 @@
 [JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [MongoDB]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [NodeJs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-
- <br>
