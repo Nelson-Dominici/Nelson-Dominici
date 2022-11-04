@@ -1,5 +1,4 @@
  🌿 I'm a Back-end developer  
- 💫 I'm dedicated to becoming fluent in English
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
