@@ -1,15 +1,12 @@
- #     
- 🌿 I'm studying Back-end development
+ 🌿 I'm a Back-end developer  
+ 💫 I'm dedicated to becoming fluent in English
 
 <div>
   <a href="https://github.com/Nelson-Dominici">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Nelson-Dominici&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+</div>
 
 <br>
- <br>
- 
 <div id="top" align="left">
   
 ![Html]
@@ -29,7 +26,3 @@
 [NodeJs]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 
  <br>
-  
-<img src=https://user-images.githubusercontent.com/89428967/147531150-5732665f-c059-4db6-aead-30b52b896389.gif width="450" height="250" />
- 
-#
