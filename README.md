@@ -9,3 +9,7 @@ I was a front-end developer but, when i met the back-end development i fell in l
 I'm also studying English, I intend to work outside Brazil. <br>
 The technologies I will study are: Typescript, Mysql
 </h5>
+
+<div>
+<img src="https://user-images.githubusercontent.com/89428967/200963694-27c05c10-c936-4dfa-b4dc-c22e47c3888a.gif" width="95" height="95">
+</div>
