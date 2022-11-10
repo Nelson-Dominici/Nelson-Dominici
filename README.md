@@ -16,7 +16,7 @@ I'm also studying English, I intend to work outside Brazil. <br>
 The technologies I will study are: Typescript, Mysql
   
 <spam align="right">
-<img align="right" src="https://user-images.githubusercontent.com/89428967/200963694-27c05c10-c936-4dfa-b4dc-c22e47c3888a.gif" width="95" height="95">
+<img align="right" src="https://user-images.githubusercontent.com/89428967/200975913-64b82052-238e-4fe3-bc93-dba07d945bbe.gif" width="95" height="95">
 </spam>
   
 </h4>
