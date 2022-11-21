@@ -15,6 +15,14 @@ I was a front-end developer but, when i met the back-end development i fell in l
 I'm also studying English, I intend to work outside Brazil. <br> 
 The technologies I will study are: Typescript, Mysql
   
+<li>Html</li>
+<li>Css</li>
+<li>Bootstrap</li>
+<li>javascript</li>
+<li>Node</li>
+<li>Express</li>
+<li>Mongodb</li>
+ 
 <spam align="right">
 <img align="right" src="https://user-images.githubusercontent.com/89428967/200975913-64b82052-238e-4fe3-bc93-dba07d945bbe.gif" width="95" height="95">
 </spam>
