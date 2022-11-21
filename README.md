@@ -13,7 +13,7 @@ I was a front-end developer but, when i met the back-end development i fell in l
 <h4 align="left">
  
 I'm also studying English, I intend to work outside Brazil. <br> 
-The technologies I will study are: Typescript, Mysql
+The technologies I will study are: Typescript, Mysql.
   
 <li>Html</li>
 <li>Css</li>
