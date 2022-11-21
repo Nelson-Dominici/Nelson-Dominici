@@ -19,8 +19,8 @@ The technologies I will study are: Typescript, Mysql
 <li>Css</li>
 <li>Bootstrap</li>
 <li>javascript</li>
-<li>Node</li>
-<li>Express</li>
+<li>Node.js</li>
+<li>Express.js</li>
 <li>Mongodb</li>
  
 <spam align="right">
