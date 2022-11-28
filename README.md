@@ -5,15 +5,14 @@
 <spam>
 
 <h4 align="left">
-My name is Nelson and i've 16 years old, i´ve studyng every day to become i back-end developer. <br>
-I was a front-end developer but, when i met the back-end development i fell in love. <br>
+Hi!! my name is Nelson, and I'm a back-end developer. <br>
+I also have front-end knowledge <br>
 </h4> 
   
   
 <h4 align="left">
  
-I'm also studying English, I intend to work outside Brazil. <br> 
-I'm studying Typescript.
+I'm currently studying Typescript.
   
 <li>Html</li>
 <li>Css</li>
