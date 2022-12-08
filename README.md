@@ -12,7 +12,7 @@ I also have front-end knowledge <br>
   
 <h4 align="left">
  
-I'm currently studying Typescript.
+I'm currently studying PHP.
   
 <li>Html</li>
 <li>Css</li>
