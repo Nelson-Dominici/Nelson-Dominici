@@ -14,7 +14,6 @@ I also have front-end knowledge <br>
  
 I'm currently studying PHP.
   
-<li>Ejs</li>
 <li>Html</li>
 <li>Css</li>
 <li>Bootstrap</li>
