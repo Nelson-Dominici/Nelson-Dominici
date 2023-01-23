@@ -21,11 +21,7 @@ I'm currently studying PHP.
 <li>Node.js</li>
 <li>Express.js</li>
 <li>Mongodb</li>
- 
-<spam align="right">
-<img align="right" src="https://user-images.githubusercontent.com/89428967/200975913-64b82052-238e-4fe3-bc93-dba07d945bbe.gif" width="95" height="95">
-</spam>
-  
+
 </h4>
  
 </spam>
