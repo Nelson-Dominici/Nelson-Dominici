@@ -17,6 +17,7 @@ I'm currently studying Laravel.
 <li>PHP</li>
 <li>Html</li>
 <li>Css</li>
+<li>MySQL</li>
 <li>Bootstrap</li>
 <li>javascript</li>
 <li>Node.js</li>
