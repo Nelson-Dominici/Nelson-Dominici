@@ -12,7 +12,7 @@ I also have front-end knowledge <br>
   
 <h4 align="left">
  
-I'm currently studying Laravel.
+I'm currently studying Java.
   
 <li>PHP</li>
 <li>Html</li>
