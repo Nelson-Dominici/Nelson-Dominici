@@ -12,7 +12,7 @@ I also have front-end knowledge <br>
   
 <h4 align="left">
  
-I'm currently studying Java.
+I'm currently studying WordPress.
   
 <li>PHP</li>
 <li>Html</li>
