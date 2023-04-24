@@ -19,7 +19,6 @@ I'm currently studying WordPress.
 <li>CSS</li>
 <li>SQL</li>
 <li>MySQL</li>
-<li>Bootstrap</li>
 <li>javascript</li>
 <li>Node.js</li>
 <li>Express.js</li>
