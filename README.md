@@ -12,7 +12,7 @@ I also have front-end knowledge <br>
   
 <h4 align="left">
  
-I'm currently studying WordPress.
+I'm currently studying Slim framework.
   
 <li>PHP</li>
 <li>Html</li>
