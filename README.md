@@ -20,7 +20,7 @@ I'm currently studying Slim framework.
 <li>SQL</li>
 <li>MySQL</li>
 <li>javascript</li>
-<li>JQueryt</li>
+<li>JQuery</li>
 <li>Node.js</li>
 <li>Express.js</li>
 <li>Mongodb</li>
