@@ -23,7 +23,7 @@ I'm currently studying Slim framework.
 <li>JQuery</li>
 <li>Node.js</li>
 <li>Express.js</li>
-<li>Mongodb</li>
+<li>MongoDB</li>
 
 </h4>
  
