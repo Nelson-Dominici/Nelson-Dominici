@@ -24,7 +24,7 @@ I'm currently studying Laravel.
 <li>Node.js</li>
 <li>Express.js</li>
 <li>MongoDB</li>
-<li>Slim framework</li>
+<li>Slim Framework</li>
 
 </h4>
  
