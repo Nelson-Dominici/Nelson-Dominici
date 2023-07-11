@@ -12,7 +12,7 @@ I also have front-end knowledge <br>
   
 <h4 align="left">
  
-I'm currently studying Slim framework.
+I'm currently studying Laravel.
   
 <li>PHP</li>
 <li>Html</li>
@@ -24,6 +24,7 @@ I'm currently studying Slim framework.
 <li>Node.js</li>
 <li>Express.js</li>
 <li>MongoDB</li>
+<li>Slim framework</li>
 
 </h4>
  
