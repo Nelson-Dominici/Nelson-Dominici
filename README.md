@@ -21,8 +21,6 @@ I'm currently studying Laravel.
 <li>MySQL</li>
 <li>javascript</li>
 <li>JQuery</li>
-<li>Node.js</li>
-<li>Express.js</li>
 <li>MongoDB</li>
 <li>Slim Framework</li>
 
