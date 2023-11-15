@@ -13,7 +13,7 @@ I also have front-end knowledge <br>
 <h4 align="left">
  
 I'm currently studying Laravel.
-  
+
 <li>PHP</li>
 <li>Html</li>
 <li>CSS</li>
@@ -23,6 +23,7 @@ I'm currently studying Laravel.
 <li>JQuery</li>
 <li>MongoDB</li>
 <li>Slim Framework</li>
+<li>Docker</li>
 
 </h4>
  
