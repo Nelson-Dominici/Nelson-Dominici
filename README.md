@@ -31,5 +31,5 @@ I'm currently studying Laravel.
 </div>
 
 <div> 
-
+<img src="https://dcbadge.vercel.app/api/shield/1089666995370336286?logoColor=presence&&theme=gray&&style=social"/>
 </div>
