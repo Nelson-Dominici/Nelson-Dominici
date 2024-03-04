@@ -30,6 +30,22 @@ I'm currently studying Laravel.
 </spam>
 </div>
 
+<h2>🚀 Open Source Projects</h2>
+
+<h3>
+  <ul>
+    <li>
+      <a href="https://github.com/Nelson-Dominici/Slimgry">
+        Slimgry
+      </a>
+    </li>
+  </ul>
+</h3>
+
+<h2>⭐ Connect With Ne</h2>
+
 <div> 
-<img src="https://dcbadge.vercel.app/api/shield/1089666995370336286?logoColor=presence&&theme=gray&&style=social"/>
+<img src="https://dcbadge.vercel.app/api/shield/1089666995370336286?logoColor=presence&&theme=gray&&style=social"/><br>
+<img src="https://img.shields.io/badge/Email-nelsoncomer777@gmail.com-blue?style=social&logo=Gmail&logoColor=white)](mailto:nelsoncomer777@gmail.com)">
+
 </div>
