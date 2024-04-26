@@ -31,8 +31,6 @@ I'm currently studying Laravel.
 </div>
 
 <div> 
-<img src="https://dcbadge.vercel.app/api/shield/1089666995370336286?logoColor=presence&&theme=gray&&style=social"/> 
-<br>
 <a href="mailto:nelsoncomer777@gmail.com">
  <img src="https://img.shields.io/badge/Email-nelsoncomer777@gmail.com-blue?style=social&logo=Gmail&logoColor=presence" alt="Email Badge">
 </a>
