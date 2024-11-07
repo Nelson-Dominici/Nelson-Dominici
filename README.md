@@ -5,8 +5,7 @@
 <spam>
 
 <h4 align="left">
-Hi!! my name is Nelson, and I'm a back-end developer. <br>
-I also have front-end knowledge <br>
+Hi!! my name is Nelson, and I'm a Full Stack developer. <br>
 </h4> 
   
   
