@@ -11,18 +11,22 @@ Hi!! my name is Nelson, and I'm a Full Stack developer. <br>
   
 <h4 align="left">
  
-I'm currently studying Laravel.
+I'm currently studying Vue.js.
 
-<li>PHP</li>
-<li>Html</li>
 <li>CSS</li>
 <li>SQL</li>
+<li>PHP</li>
+<li>Html</li>
 <li>MySQL</li>
-<li>javascript</li>
 <li>JQuery</li>
-<li>MongoDB</li>
-<li>Slim Framework</li>
 <li>Docker</li>
+<li>Laravel</li>
+<li>MongoDB</li>
+<li>Livewire</li>
+<li>Alpine.js</li>
+<li>javascript</li>
+<li>Tailwind.css</li>
+<li>Slim Framework</li>
 
 </h4>
  
