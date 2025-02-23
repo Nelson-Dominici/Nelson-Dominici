@@ -23,6 +23,7 @@ I'm currently studying Vue.js.
 <li>Laravel</li>
 <li>MongoDB</li>
 <li>Livewire</li>
+<li>Redis</li>
 <li>Alpine.js</li>
 <li>javascript</li>
 <li>Tailwind.css</li>
