@@ -11,7 +11,7 @@ Hi!! my name is Nelson, and I'm a Full Stack developer. <br>
   
 <h4 align="left">
  
-I'm currently studying Vue.js.
+I'm currently studying Wordpress.
 
 <li>CSS</li>
 <li>SQL</li>
@@ -28,6 +28,7 @@ I'm currently studying Vue.js.
 <li>javascript</li>
 <li>Tailwind.css</li>
 <li>Slim Framework</li>
+<li>Vue.js</li>
 
 </h4>
  
