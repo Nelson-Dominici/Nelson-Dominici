@@ -13,6 +13,9 @@ Hi!! my name is Nelson, and I'm a Full Stack developer. <br>
  
 I'm currently studying Wordpress.
 
+#1
+##2
+
 <li>CSS</li>
 <li>SQL</li>
 <li>PHP</li>
