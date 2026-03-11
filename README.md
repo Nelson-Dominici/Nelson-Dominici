@@ -25,10 +25,10 @@ I also have experience working with modern frontend and backend technologies.
 ## 🚀 Technologies I Work With
 
 ### Backend
-## PHP • Laravel • Symfony • CodeIgniter • Slim • Node.js
+#### PHP • Laravel • Symfony • CodeIgniter • Slim • Node.js
 
 ### Frontend
-## Vue.js • TypeScript • JavaScript • TailwindCSS • Alpine.js
+#### Vue.js • TypeScript • JavaScript • TailwindCSS • Alpine.js
 ---
 
 ## 📫 Contact
