@@ -1,44 +1,40 @@
-<h1>👋Welcome to my profile!</h1>  
+<h1 align="center">👋 Hello, I'm Nelson</h1>
 
-<div style="display:flex" align="center">
-  
-<spam>
+<p align="center">
+Full Stack Developer specialized in <strong>PHP</strong> and modern web applications.
+</p>
 
-<h4 align="left">
-Hi!! my name is Nelson, and I'm a Full Stack developer. <br>
-</h4> 
-  
-  
-<h4 align="left">
- 
-I'm currently studying Vue.js.
+---
 
+Hi! My name is **Nelson**, I'm a **Full Stack Developer** with strong experience building scalable web applications and backend systems.
 
-<li>CSS</li>
-<li>SQL</li>
-<li>PHP</li>
-<li>Html</li>
-<li>MySQL</li>
-<li>JQuery</li>
-<li>Docker</li>
-<li>Laravel</li>
-<li>MongoDB</li>
-<li>Livewire</li>
-<li>Redis</li>
-<li>Alpine.js</li>
-<li>javascript</li>
-<li>Tailwind.css</li>
-<li>Slim Framework</li>
+I specialize in **PHP development**, working mainly with modern frameworks and robust architectures.
 
-</h4>
- 
-</spam>
-</div>
+### 💡 Main Expertise
 
-<div> 
+* PHP
+* Laravel
+* Symfony
+* CodeIgniter
+* Slim Framework
+
+I also have experience working with modern frontend and backend technologies.
+
+---
+
+## 🚀 Technologies I Work With
+
+### Backend
+## PHP • Laravel • Symfony • CodeIgniter • Slim • Node.js
+
+### Frontend
+## Vue.js • TypeScript • JavaScript • TailwindCSS • Alpine.js
+---
+
+## 📫 Contact
+
+<p>
 <a href="mailto:nelsoncomer777@gmail.com">
- <img src="https://img.shields.io/badge/Email-nelsoncomer777@gmail.com-blue?style=social&logo=Gmail&logoColor=presence" alt="Email Badge">
+<img src="https://img.shields.io/badge/Email-nelsoncomer777@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-
-</div>
+</p>
