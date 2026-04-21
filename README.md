@@ -1,5 +1,5 @@
 ## **Full Stack Developer**
-#### Specialized in **PHP** & **Vue.js** | I build scalable backend architectures and modern web interfaces.
+#### Specialized in **PHP** & **JavaScript** | I build scalable backend architectures and modern web interfaces.
 
 <div align="center">
   <img src="./assets/solaire.gif" width="300" alt="Minha Demo">
